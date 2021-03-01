@@ -1,2 +1,3 @@
 # OfflineSignatureVerification
-This repository contains the full code for few shot learning based offline signature verification using Depthwise Separable Convolutions
+This repository contains the full code for few shot learning based offline signature verification using Depthwise Separable Convolutions.
+We have experimented the proposed OffSV with CEDAR dataset. We experimented thoroughly with few shot learning i.e. one shot, two shot learning etc.
